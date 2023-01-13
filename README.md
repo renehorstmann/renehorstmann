@@ -26,7 +26,7 @@ I created **Pixelc**, because other mobile pixel art editors where lacking some 
 ## C standard library addition
 [rhc](https://github.com/renehorstmann/rhc) is a collection of some usefull C standard library stuff, like dynamic array (like C++ std::vector) or to handle sockets, etc. (**some** includes and uses it)
 
-## 3D OpenGL Viewer
+## 3D OpenGL PointCloud and Mesh Viewer
 > Not in active use. For those who may want to use it:
 
 [Visu](https://github.com/renehorstmann/Visu) is a library to render 3D pointclouds and meshs in OpenGL with an ease.
