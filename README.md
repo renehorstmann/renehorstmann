@@ -1,8 +1,16 @@
 # Hey folks 👋
 
-I am a software engineer working on 3d image processing and smart robotics.
+I'm a software engineer in the welding industry working on machine vision and robotics. 
 
-In my spare time I like to code games and stuff in C.
+In my free time I like programming games and stuff in C.
+
+## Homepage
+Just a collection of links for my games and stuff.
+[horsimann.de](www.horsimann.de)
+
+## Recipes
+I note my favorite recipes here on Github (written in german).
+See my [Homepage](www.horsimann.de)
 
 ## My C game engine
 I created my own engine called [some](https://github.com/renehorstmann/some).
