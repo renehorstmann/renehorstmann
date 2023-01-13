@@ -39,4 +39,4 @@ Title is:
 
 *Extension of Robot Programming by Collision Detection and Configuration Determination, by Simulation and Analysis of Kinematics*
 
-### Have a nice day :simple_smile:
+### Have a nice day :wink:
