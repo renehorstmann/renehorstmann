@@ -6,11 +6,11 @@ In my free time I like programming games and stuff in C.
 
 ## Homepage
 Just a collection of links for my games and stuff.
-[horsimann.de](https://www.horsimann.de)
+[horsimann.de](http://www.horsimann.de)
 
 ## Recipes
 I note my favorite recipes here on Github (written in german).
-See my [Homepage](https://www.horsimann.de)
+See my [Homepage](http://www.horsimann.de)
 
 ## My C game engine
 I created my own engine called [some](https://github.com/renehorstmann/some).
