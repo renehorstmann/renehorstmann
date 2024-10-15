@@ -22,15 +22,16 @@ Mia uses high level object oriented programming with a tree based resource manag
 
 Already included are an Examples App; a [Tea Timer App](https://horsimann.de/tea); and a work in progress paint app.
 
+Focus is on 2D-PixelArt Apps, but Mia can be setup for high resoultion as well.
 
 ## Climbr, Celeste-Like Mobile Jump And Run :joystick:
 Not open source but nevertheless my first serious game.
 
 Baed on my old C engine [some](https://github.com/renehorstmann/some).
 
-[Play the Climbr WebApp-Demo](https://horsimann.de/climbr)
+> Play the Climbr [WebApp-Demo](https://horsimann.de/climbr)
 
-[Download Climbr on Google Play](https://play.google.com/store/apps/details?id=de.horsimann.climbr)
+> Download Climbr on [Google Play](https://play.google.com/store/apps/details?id=de.horsimann.climbr)
 
 
 ## Pixel Art Editor :art:
@@ -44,9 +45,9 @@ I created **Pixelc**, because other mobile pixel art editors where lacking some 
 
 Baed on my old C engine [some](https://github.com/renehorstmann/some).
 
-[Open the Pixelc WebApp](https://horsimann.de/pixelc)
+> Open the Pixelc [WebApp](https://horsimann.de/pixelc)
 
-[Download Pixelc on Google Play](https://play.google.com/store/apps/details?id=de.horsimann.pixelc)
+> Download Pixelc on [Google Play](https://play.google.com/store/apps/details?id=de.horsimann.pixelc)
 
 
 ## Master Thesis :page_with_curl:
