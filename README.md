@@ -20,7 +20,7 @@ I created my own engine called [Mia](https://github.com/renehorstmann/Mia).
 
 Mia uses high level object oriented programming with a tree based resource management.
 
-Already included are an Examples App; a [Tea Timer App](https://horsimann.de/tea); and a work in progress paint app.
+Already included are an Examples App; a [Tea Timer App](https://horsimann.de/tea); and a work in progress Paint App.
 
 Focus is on 2D-PixelArt Apps, but Mia can be setup for high resoultion as well.
 
