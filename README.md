@@ -1,23 +1,37 @@
 # Hey folks 👋
 
-I'm a software engineer in the welding industry working on machine vision and robotics. 
+I'm a software engineer in the agricultural machinery industry working on machine vision and robotics to automate manufacturing processes.
 
 In my free time I like programming games and stuff in C.
 
+
 ## Homepage :house_with_garden:
 Just a collection of links for my games and stuff.
-[horsimann.de](http://www.horsimann.de)
+[horsimann.de](https://www.horsimann.de)
+
 
 ## Recipes :spaghetti:
 I note my favorite recipes here on Github (written in german).
-See my [Homepage](http://www.horsimann.de)
+See my [Homepage](https://www.horsimann.de)
+
 
 ## My C game engine :wrench:
-I created my own engine called [some](https://github.com/renehorstmann/some).
+I created my own engine called [Mia](https://github.com/renehorstmann/Mia).
 
-**some** is an acronym for *"Sdl2 Opengl Mini Engine"*
+Mia uses high level object oriented programming with a tree based resource management.
 
-With **some** I have written some cool apps and games like:
+Already included are an Examples App; a [Tea Timer App](https://horsimann.de/tea); and a work in progress paint app.
+
+
+## Climbr, Celeste-Like Mobile Jump And Run :joystick:
+Not open source but nevertheless my first serious game.
+
+Baed on my old C engine [some](https://github.com/renehorstmann/some).
+
+[Play the Climbr WebApp-Demo](https://horsimann.de/climbr)
+
+[Download Climbr on Google Play](https://play.google.com/store/apps/details?id=de.horsimann.climbr)
+
 
 ## Pixel Art Editor :art:
 [Pixelc](https://github.com/renehorstmann/Pixelc) is my free to use and open source pixel art editor.
@@ -28,16 +42,12 @@ Try the multitouch mode :wink:
 
 I created **Pixelc**, because other mobile pixel art editors where lacking some features for me and it was a nice App to test out my engine.
 
-## Math library in C :triangular_ruler:
-[Mathc](https://github.com/renehorstmann/mathc) is my linalg library for vector and matrix math, used in 3D programming and games (**some** includes and uses it)
+Baed on my old C engine [some](https://github.com/renehorstmann/some).
 
-## C standard library addition :paperclip:
-[rhc](https://github.com/renehorstmann/rhc) is a collection of some usefull C standard library stuff, like dynamic array (like C++ std::vector) or to handle sockets, etc. (**some** includes and uses it)
+[Open the Pixelc WebApp](https://horsimann.de/pixelc)
 
-## 3D OpenGL PointCloud and Mesh Viewer :telescope:
-> Not in active use. For those who may want to use it:
+[Download Pixelc on Google Play](https://play.google.com/store/apps/details?id=de.horsimann.pixelc)
 
-[Visu](https://github.com/renehorstmann/Visu) is a library to render 3D pointclouds and meshs in OpenGL with an ease.
 
 ## Master Thesis :page_with_curl:
 If you want to have a look: [Master Thesis](https://github.com/renehorstmann/MasterThesisPrint).
