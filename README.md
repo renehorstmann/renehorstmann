@@ -12,8 +12,7 @@ Just a collection of links for my games and stuff.
 
 ## Recipes :spaghetti:
 I note my favorite recipes here on Github (written in german).
-See my [Homepage](https://www.horsimann.de)
-
+See my [Homepage](https://www.horsimann.de).
 
 ## My C game engine :wrench:
 I created my own engine called [Mia](https://github.com/renehorstmann/Mia).
@@ -22,16 +21,16 @@ Mia uses high level object oriented programming with a tree based resource manag
 
 Already included are an Examples App; a [Tea Timer App](https://horsimann.de/tea); and a work in progress Paint App.
 
-Focus is on 2D-PixelArt Apps, but Mia can be setup for high resoultion as well.
+Focus is on 2D-PixelArt Apps, but Mia can be setup for high resolution as well.
 
 ## Climbr, Celeste-Like Mobile Jump And Run :joystick:
 Not open source but nevertheless my first serious game.
 
-Baed on my old C engine [some](https://github.com/renehorstmann/some).
+Based on my old C engine [some](https://github.com/renehorstmann/some).
 
 > Play the Climbr [WebApp-Demo](https://horsimann.de/climbr)
 
-> Download Climbr on [Google Play](https://play.google.com/store/apps/details?id=de.horsimann.climbr)
+> Download Climbr from [Google Play](https://play.google.com/store/apps/details?id=de.horsimann.climbr)
 
 
 ## Pixel Art Editor :art:
@@ -43,11 +42,11 @@ Try the multitouch mode :wink:
 
 I created **Pixelc**, because other mobile pixel art editors where lacking some features for me and it was a nice App to test out my engine.
 
-Baed on my old C engine [some](https://github.com/renehorstmann/some).
+Based on my old C engine [some](https://github.com/renehorstmann/some).
 
 > Open the Pixelc [WebApp](https://horsimann.de/pixelc)
 
-> Download Pixelc on [Google Play](https://play.google.com/store/apps/details?id=de.horsimann.pixelc)
+> Download Pixelc from [Google Play](https://play.google.com/store/apps/details?id=de.horsimann.pixelc)
 
 
 ## Master Thesis :page_with_curl:
